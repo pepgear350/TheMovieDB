@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="online">Online</string>
+    <string name="search_popular">Movie popular</string>
+    <string name="search_top_rated">Movie top rated</string>
+    <string name="search_upcoming">Movie  upcoming</string>
+    <string name="search_online">Search online</string>
+    <string name="search">Search</string>
+    <string name="title_cast_details">Top Billed Cast</string>
+</resources>
